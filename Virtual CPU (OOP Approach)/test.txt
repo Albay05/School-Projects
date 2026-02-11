@@ -1,9 +1,0 @@
-MOV R1, 10;          ; R1 = 10
-MOV #20, R1;         ; Hafıza[20] = R1 (yani 10)
-MOV #21, 5;          ; Hafıza[21] = 5
-MOV R2, #20;         ; R2 = Hafıza[20] (yani 10)
-ADD R2, #21;         ; R2 = R2 + Hafıza[21] (10 + 5 = 15)
-SUB R2, #20;         ; R2 = R2 - Hafıza[20] (15 - 10 = 5)
-PRN R2;              ; Ekrana R2'yi basar (Beklenen: 5)
-PRN #20;             ; Ekrana Hafıza[20]'yi basar (Beklenen: 10)
-HLT;                 ; Durdur
