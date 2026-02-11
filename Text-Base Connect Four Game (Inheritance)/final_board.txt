@@ -1,0 +1,10 @@
+ABCDEFGHIJK
+..........O
+.........O 
+.......O.  
+.......O   
+..O...O    
+X.O..O     
+XXOXX      
+XXXO       
+XXX        
